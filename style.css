@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: white;
+}
+
+.main-heading {
+    font-size: 35px;
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.card-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.vr-logo {
+    height: 30px;
+    width: 40px;
+
+}
+
+#navItem1 {
+    color: #black;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: black;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: black;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: black;
+    font-family: "Roboto";
+}
+
+.ecommerce-logo {
+    height: 50px;
+    width: 135px;
+}
+
+.bg-container1 {
+    background-image: url("1.jpeg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading1 {
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.custom-button1 {
+    height: 40px;
+    width: 135px;
+    background-color: #1a2137;
+    color: white;
+    border-width: 0px;
+    border-radius: 1px;
+}
+
+.delivery-and-payment-section {
+    background-color: white;
+  }
+  .delivery-and-payment-section-img {
+    width: 270px;
+  }
+  .delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+
+  .follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #183b56;
+    font-size: 35px;
+  }
