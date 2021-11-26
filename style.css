@@ -274,4 +274,18 @@
   background-color: #1f2933;
   height: 100vh;
 }
-
+.footer-section {
+  background-color: #1f2933;
+}
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.footer-section-address {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
