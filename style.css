@@ -289,3 +289,83 @@
   font-family: "Roboto";
   font-size: 14px;
 }
+.heading1 {
+  color: #183b56;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.bg {
+  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+  background-size: cover;
+  border-radius: 12px;
+}
+
+.heading2 {
+  color: white;
+  font-size: 28px;
+  font-weight: 530;
+  font-family: Roboto;
+
+}
+
+.matter {
+  color: white;
+
+}
+
+.utton {
+  background-color: white;
+  height: 40px;
+  width: 120px;
+  border-radius: 15px;
+  border-style: none;
+  color: #ff9f00;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.bg3 {
+  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+}
+
+.last {
+  color: #ff9f00;
+}
+
+.products-card-modal-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.products-card-modal-description {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.products-card-modal-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.products-card-modal-list-item {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.products-card-modal-list-item-category {
+  font-weight: bold;
+}
+
+.products-section-link {
+  color: #ff9f00;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 700;
+}
+
